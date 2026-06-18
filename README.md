@@ -63,6 +63,16 @@ python train.py
 
 ---
 
+
+## 🙏 Acknowledgements
+
+### We gratefully acknowledge the contributions of the following repos to our work.
+
+1. https://github.com/gift-surg/NiftyMIC
+2. https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain
+
+---
+
 ## 📖 Citation
 
 If you find this work useful for your research, please consider citing our paper:
@@ -79,13 +89,3 @@ If you find this work useful for your research, please consider citing our paper
     url = {https://doi.org/10.1162/IMAG.a.1293},
     eprint = {https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.1293/2607082/imag.a.1293.pdf},
 }
-
----
-
-
-## 🙏 Acknowledgements
-
-### We gratefully acknowledge the contributions of the following repos to our work.
-
-1. https://github.com/gift-surg/NiftyMIC
-2. https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain
