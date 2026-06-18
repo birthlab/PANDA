@@ -1,7 +1,7 @@
 
-# 🧠 PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI
+# [IMAG] PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI
 
-Under Revision at *Imaging Neuroscience*
+*Imaging Neuroscience*
 
 ---
 
@@ -62,6 +62,26 @@ python train.py
 </p>
 
 ---
+
+## 📖 Citation
+
+If you find this work useful for your research, please consider citing our paper:
+
+```bibtex
+@article{10.1162/IMAG.a.1293,
+    author = {Hao, Yingqi and Liu, Mingxuan and Zhu, Juncheng and Yang, Hongjia and Li, Haoxiang and Kang, Min and Song, Yan and Lai, Hua and Zhou, Xiaoling and Ning, Gang and Liao, Yi and Qu, Haibo and Tian, Qiyuan},
+    title = {PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI},
+    journal = {Imaging Neuroscience},
+    year = {2026},
+    month = {06},
+    issn = {2837-6056},
+    doi = {10.1162/IMAG.a.1293},
+    url = {https://doi.org/10.1162/IMAG.a.1293},
+    eprint = {https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.1293/2607082/imag.a.1293.pdf},
+}
+
+---
+
 
 ## 🙏 Acknowledgements
 
